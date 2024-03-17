@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "734095297745",
+    "project_id": "instaestepario",
+    "storage_bucket": "instaestepario.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734095297745:android:4be9c5edf46bb84512c9f0",
+        "android_client_info": {
+          "package_name": "com.example.instaestepario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734095297745-iougmcqdsn52n02k119k1iiqaalum9fc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.instaestepario",
+            "certificate_hash": "d0a0b3b46288a50634706d7542c7549178c05569"
+          }
+        },
+        {
+          "client_id": "734095297745-q8ukvf8nt1h40bhoul06jgbudhfiedbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdQvQC_ze9pZPibYZ6pdSKoyaSa7mJJZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734095297745-q8ukvf8nt1h40bhoul06jgbudhfiedbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
